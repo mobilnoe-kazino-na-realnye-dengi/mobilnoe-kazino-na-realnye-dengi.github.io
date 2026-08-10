@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: mobilnoe-kazino-na-realnye-dengi.github.io
+Sitemap: https://mobilnoe-kazino-na-realnye-dengi.github.io/sitemap.xml
